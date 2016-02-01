@@ -80,4 +80,9 @@ studentRandomPosition
 for (index, value) in studentRandomPosition.enumerate() {
     print("The index is: \(index) and the value is: \(value)")
     // Find highest number in the array
+    let i = 1
+    
+    if random(i) > random(i-1) {
+        //
+    }
 }
