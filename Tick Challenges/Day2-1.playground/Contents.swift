@@ -3,9 +3,9 @@
 import Cocoa
 
 print("How many antennas?")
-var antennas = 2
+var antennas = 0
 print("How many eyes?")
-var eyes = 3
+var eyes = 0
 
     
 //TroyMartian, who has at least 3 antenna and at most 4 eyes.
